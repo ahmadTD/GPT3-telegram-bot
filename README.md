@@ -1,4 +1,4 @@
-GPT3-telegram-bot
+<h1>GPT3-telegram-bot</h1>
 
 <h2>Usage</h2>
 
